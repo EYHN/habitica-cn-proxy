@@ -26,3 +26,5 @@ habitica的国内反向代理服务
 服务器资源和维护需要一定费用所以我接受无偿捐赠。
 
 <a href="https://qr.alipay.com/FKX01755SSMQIZE6U7YZ13"><img alt="捐赠二维码" src="https://github.com/EYHN/habitica-cn-proxy/blob/master/%E6%8D%90%E8%B5%A0%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg?raw=true" width="500px" /></a>
+
+> 手机版点击跳转支付宝

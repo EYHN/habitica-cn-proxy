@@ -19,7 +19,7 @@ habitica的国内反向代理服务
 
 点击页面上方的 `star` 按钮。
 
-[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)]()
+[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)](#)
 
 ## 支付宝链接
 
